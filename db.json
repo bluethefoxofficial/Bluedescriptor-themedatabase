@@ -1,0 +1,30 @@
+[
+    {
+    "skinname": "vrc",
+    "skinpath": "vrc",
+    "skinversion": "1.0.0",
+    "skinauthor": "Bluedescriptorteam",
+    "zip": "vrc.zip"
+    },
+    {
+    "skinname": "BD",
+    "skinpath": "BD",
+    "skinversion": "1.0.0",
+    "skinauthor": "Bluedescriptorteam",
+    "zip": "BD.zip"
+    },
+    {
+    "skinname": "Pinkify",
+    "skinpath": "Pinkify",
+    "skinversion": "1.0.0",
+    "skinauthor": "Bluedescriptorteam",
+    "zip": "Pinkify.zip"
+    },
+    {
+    "skinname": "eyebleed",
+    "skinpath": "eyebleed",
+    "skinversion": "1.0.0",
+    "skinauthor": "Bluedescriptorteam",
+    "zip": "eyebleed.zip"
+    }
+]
